@@ -1,0 +1,24 @@
+div{
+   background-color: none;
+}
+.conteudo{
+    width: 80%;
+    margin: auto;
+    background-color: rgba(106, 106, 243, 0.432);
+}
+
+.david{
+    width: 50%;
+    margin-top: 0p;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 400px;
+}
+
+.conv{
+    font-size: large;
+    margin-top: 0%;
+    margin-right: 20%;
+    margin-bottom: 0%;
+    margin-left: 20%;
+}

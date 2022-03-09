@@ -1,0 +1,19 @@
+div{
+    background-color: rgb(108, 172, 228);
+}
+
+.conteudo{
+    background-color: rgb(0, 112, 211);
+    width: 80%;
+    margin: auto;
+}
+
+span{
+    color: whitesmoke;
+    font-weight: bold;
+}
+
+.resp{
+    color: rgb(141, 20, 20);
+    font-size: large;
+}

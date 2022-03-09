@@ -1,0 +1,21 @@
+div{
+    width: 80%;
+    margin: auto;
+    background-color: rgb(41, 41, 41);
+    color: white;
+}
+
+.titulo{
+    width: 40%;
+    margin-top: 0%;
+    margin-right: 0%;
+    margin-left: 30%;
+    margin-bottom: 0%;
+}
+
+span{
+    margin-top: 0%;
+    margin-right: 0%;
+    margin-left: 30%;
+    margin-bottom: 0%;
+}
